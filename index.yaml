@@ -10,6 +10,6 @@ entries:
     name: datacare-chart
     type: application
     urls:
-    - https://robert-datacare.github.io/datacare-chart/datacare-chart-0.4.0.tgz
+    - https://robert-datacare.github.io/datacare-chart-2/datacare-chart-0.4.0.tgz
     version: 0.4.0
 generated: "2023-06-23T15:02:20.195780958-06:00"
